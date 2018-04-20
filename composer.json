@@ -1,0 +1,31 @@
+{
+    "name": "jourdon/slug",
+    "description": "Chinese to Slug",
+    "require": {
+
+        "overtrue/laravel-pinyin": "^3.0",
+        "guzzlehttp/guzzle": "~6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jourdon",
+            "email": "admin@qiehe.net"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jourdon\\Slug\\SlugServiceProvider"
+            ],
+            "aliases": {
+                "Slug": "Jourdon\\Slug\\Slug"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Jourdon\\Slug\\": "src/"
+        }
+    }
+}
