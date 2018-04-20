@@ -19,7 +19,7 @@ class SlugTranslate
             return $text;
         }
 
-        if (empty($this->config['translate_appid']) || empty($this->config['translate_secret'])) {
+        if (!in_array($this->config['type'],['baidu','youdao']) ||empty($this->config['translate_appid']) || empty($this->config['translate_secret'])) {
             return $this->pinyin($text);
         }
 

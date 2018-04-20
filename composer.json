@@ -3,7 +3,7 @@
     "description": "Chinese to Slug",
     "require": {
 
-        "overtrue/laravel-pinyin": "^3.0",
+        "overtrue/pinyin": "^3.0",
         "guzzlehttp/guzzle": "~6.3"
     },
     "license": "MIT",
