@@ -1,6 +1,6 @@
 {
     "name": "jourdon/slug",
-    "description": "Chinese to Slug",
+    "description": "translate Chinese to en for slug with baidu、youdao or pinyin",
     "require": {
 
         "overtrue/pinyin": "^3.0",
