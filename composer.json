@@ -1,6 +1,6 @@
 {
-    "name": "jourdon/slug",
-    "description": "translate Chinese to en for slug with baidu、youdao or pinyin",
+    "name": "jourdon/laravel-slug",
+    "description": "laravel - translate Chinese to en for slug with baidu、youdao or pinyin",
     "require": {
 
         "overtrue/pinyin": "^3.0",
