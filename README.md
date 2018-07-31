@@ -1,4 +1,7 @@
 # Slug
+[![Latest Stable Version](https://poser.pugx.org/jourdon/slug/v/stable)](https://packagist.org/packages/jourdon/slug)
+[![Total Downloads](https://poser.pugx.org/jourdon/slug/downloads)](https://packagist.org/packages/jourdon/slug)
+[![License](https://poser.pugx.org/jourdon/slug/license)](https://packagist.org/packages/jourdon/slug)
 
 ## 说明
 
