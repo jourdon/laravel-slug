@@ -54,7 +54,7 @@ return [
 接下来，你需要在 `.env` 文件中添加:
 
 ```php
-TRANSLATE_TYPE=baidu.com
+TRANSLATE_TYPE= baidu
 TRANSLATE_APPID=
 TRANSLATE_SECRET=
 ```
